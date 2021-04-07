@@ -49,7 +49,7 @@ Kitchen staff have a watchlist containing all placed orders, where they can also
 
 Management can add staff (kitchen staff or more managers) and add, remove, update and check all items currently on the menu. Additionally, they can also see all clients who have registered themselves on the restaurant's system and delete them, if need be.
 
-## Gallery
+# Gallery
 
 ### Landing Page (All Users):
 
