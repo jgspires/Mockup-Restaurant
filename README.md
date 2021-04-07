@@ -58,15 +58,15 @@ Management can add staff (kitchen staff or more managers) and add, remove, updat
 
 ![alt text](Screenshots/menu.png?raw=true "Menu")
 
-### Checkout (Costumers):
+### Checkout (Costumers Only):
 
 ![alt text](Screenshots/checkout.png?raw=true "Checkout")
 
-### Placed Orders (Kitchen Staff & Management):
+### Placed Orders (Kitchen Staff & Management Only):
 
 ![alt text](Screenshots/kitchenOrders.png?raw=true "Placed Orders / Kitchen")
 
-### Update Menu Item Dialog (Management):
+### Update Menu Item Dialog (Management Only):
 
 ![alt text](Screenshots/updateMenuItem.png?raw=true "Update Menu Item Dialog")
 
