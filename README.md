@@ -30,3 +30,12 @@ Whenever costumers pay for their food, they accrue 10% of the price paid as a "b
 Kitchen staff have a watchlist containing all placed orders, where they can also tag an order as done, delete it or check its ingredients.
 
 Management can add staff (kitchen staff or more managers) and add, remove, update and check all items currently on the menu. Additionally, they can also see all clients who have registered themselves on the restaurant's system and delete them, if need be.
+
+## Authors
+
+* [**João Gabriel Setubal Pires**](https://github.com/jgspires)
+* [**Marcela Braga Bahia**](https://github.com/mrssolarisdev)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
