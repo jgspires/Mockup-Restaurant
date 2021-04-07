@@ -3,17 +3,17 @@
 This is a website and MySQL database created and designed for a fictional restaurant called "Le Bistro". The website is complete with costumer, kitchen and manager interfaces. The database contains all costumers, menu items and staff (kitchen staff or management) registered.
 
 # Table of Contents
-
-* [Repo Structure](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#repo-structure)
-  * [Website Source](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#website-source)
-  * [Gallery](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#gallery)
-  * [bd_restaurante.sql](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#bd_restaurantesql)
-* [How does it work?](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#how-does-it-work)
-  * [For Costumers](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#costumers)
-  * [For Staff](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#staff)
-* [Gallery](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#gallery)
-* [Authors](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#authors)
-* [License](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#license)
+https://github.com/jgspires/restaurant-prototype#website-source
+* [Repo Structure](https://github.com/jgspires/restaurant-prototype#repo-structure)
+  * [Website Source](https://github.com/jgspires/restaurant-prototype#website-source)
+  * [Gallery](https://github.com/jgspires/restaurant-prototype#gallery)
+  * [bd_restaurante.sql](https://github.com/jgspires/restaurant-prototype#bd_restaurantesql)
+* [How does it work?](https://github.com/jgspires/restaurant-prototype#how-does-it-work)
+  * [For Costumers](https://github.com/jgspires/restaurant-prototype#costumers)
+  * [For Staff](https://github.com/jgspires/restaurant-prototype#staff)
+* [Gallery](https://github.com/jgspires/restaurant-prototype#gallery)
+* [Authors](https://github.com/jgspires/restaurant-prototype#authors)
+* [License](https://github.com/jgspires/restaurant-prototype#license)
 
 # Repo Structure
 
