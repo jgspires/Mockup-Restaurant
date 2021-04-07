@@ -1,10 +1,21 @@
 # Restaurant Prototype
 
-# What is this?
-
 This is a website and MySQL database created and designed for a fictional restaurant called "Le Bistro". The website is complete with costumer, kitchen and manager interfaces. The database contains all costumers, menu items and staff (kitchen staff or management) registered.
 
-# Contents
+# Table of Contents
+
+* [Repo Structure](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#repo-structure)
+  * [Website Source](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#website-source)
+  * [Gallery](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#gallery)
+  * [bd_restaurante.sql](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#bd_restaurantesql)
+* [How does it work?](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#how-does-it-work)
+  * [For Costumers](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#costumers)
+  * [For Staff](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#staff)
+* [Gallery](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#gallery)
+* [Authors](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#authors)
+* [License](https://github.com/jgspires/restaurant-prototype/edit/main/README.md#license)
+
+# Repo Structure
 
 ## [**Website Source**](https://github.com/jgspires/restaurant-prototype/tree/main/Website%20Source):
 
@@ -12,11 +23,16 @@ Contains all of the web pages, JavaScript code, and images used in the website. 
 
 The website was built using HTML, CSS, PHP, Bootstrap and JavaScript (using jQuery and AJAX requests).
 
+## [**Gallery**](https://github.com/jgspires/restaurant-prototype/tree/main/Gallery):
+
+Contains many screenshots of the website's various pages and modals.
+The text is only available in Portuguese, but the aesthetic design and page structure can be easily observed regardless of language.
+
 ## **bd_restaurante.sql**:
 
 This is the MySQL import script used to create the database and all necessary tables to make the website work correctly. It can be executed as is and will fill all tables with enough content so that the website can be properly tested without a time-consuming setup.
 
-**P.S.**: All of the website's interface and some of its source code are in Portuguese, as this project was first developed when I was a Computer Science undergraduate in Brazil.
+**P.S.**: All of the website's interface and some of its source code are in Portuguese, as this project was first developed when the authors were Computer Science undergraduates in Brazil.
 
 # How does it work?
 
@@ -30,6 +46,10 @@ Whenever costumers pay for their food, they accrue 10% of the price paid as a "b
 Kitchen staff have a watchlist containing all placed orders, where they can also tag an order as done, delete it or check its ingredients.
 
 Management can add staff (kitchen staff or more managers) and add, remove, update and check all items currently on the menu. Additionally, they can also see all clients who have registered themselves on the restaurant's system and delete them, if need be.
+
+## Gallery
+
+TODO
 
 ## Authors
 
