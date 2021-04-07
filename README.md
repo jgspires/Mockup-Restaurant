@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is a website and MySQL database created and designed for a fictional restaurant called "Le Bistro". The website is complete with costumer, kitchen and manager interfaces.  Whilst the database contains all costumers, menu items and staff (kitchen staff or management) registered.
+This is a website and MySQL database created and designed for a fictional restaurant called "Le Bistro". The website is complete with costumer, kitchen and manager interfaces.  The database contains all costumers, menu items and staff (kitchen staff or management) registered.
 
 ## How does it work?
 
@@ -10,4 +10,4 @@ Costumers, once they have signed in, can choose multiple items from a menu, incl
 
 Kitchen staff have a watchlist containing all placed orders, where they can also tag an order as done, delete it or check its ingredients.
 
-Management can add, remove, update and check all items currently on the menu. They can also see all clients who have registered themselves on the restaurant's system and delete them, if need be.
+Management can add, remove, update and check all items currently on the menu and add staff. Additionally, they can also see all clients who have registered themselves on the restaurant's system and delete them, if need be.
