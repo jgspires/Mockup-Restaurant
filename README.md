@@ -8,7 +8,7 @@ This is a website and MySQL database created and designed for a fictional restau
 
 ## [**Website Source**](https://github.com/jgspires/restaurant-prototype/tree/main/Website%20Source):
 
-Contains all of the web pages, javascript code, and images used in the website. Engineering wise, the website was developed using multiple design patterns, such as model-view-controller (MVC) to help organize and sectionalize the code, data-access-object (DAO) to interact with the database as well as singleton and factories to more easily and intuitively use some objects and classes.
+Contains all of the web pages, JavaScript code, and images used in the website. Engineering wise, the website was developed using multiple design patterns, such as model-view-controller (MVC) to help organize and sectionalize the code, data-access-object (DAO) to interact with the database as well as singleton and factories to more easily and intuitively use some objects and classes.
 
 The website was built using HTML, CSS, PHP, Bootstrap and JavaScript (using jQuery and AJAX requests).
 
