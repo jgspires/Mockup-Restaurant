@@ -3,7 +3,6 @@
 This is a website and MySQL database created and designed for a fictional restaurant called "Le Bistro". The website is complete with costumer, kitchen and manager interfaces. The database contains all costumers, menu items and staff (kitchen staff or management) registered.
 
 # Table of Contents
-https://github.com/jgspires/restaurant-prototype#website-source
 * [Repo Structure](https://github.com/jgspires/restaurant-prototype#repo-structure)
   * [Website Source](https://github.com/jgspires/restaurant-prototype#website-source)
   * [Screenshots](https://github.com/jgspires/restaurant-prototype#screenshots)
