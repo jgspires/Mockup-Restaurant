@@ -6,7 +6,7 @@ This is a website and MySQL database created and designed for a fictional restau
 https://github.com/jgspires/restaurant-prototype#website-source
 * [Repo Structure](https://github.com/jgspires/restaurant-prototype#repo-structure)
   * [Website Source](https://github.com/jgspires/restaurant-prototype#website-source)
-  * [Gallery](https://github.com/jgspires/restaurant-prototype#gallery)
+  * [Screenshots](https://github.com/jgspires/restaurant-prototype#screenshots)
   * [bd_restaurante.sql](https://github.com/jgspires/restaurant-prototype#bd_restaurantesql)
 * [How does it work?](https://github.com/jgspires/restaurant-prototype#how-does-it-work)
   * [For Costumers](https://github.com/jgspires/restaurant-prototype#costumers)
@@ -23,7 +23,7 @@ Contains all of the web pages, JavaScript code, and images used in the website. 
 
 The website was built using HTML, CSS, PHP, Bootstrap and JavaScript (using jQuery and AJAX requests).
 
-## [**Gallery**](https://github.com/jgspires/restaurant-prototype/tree/main/Gallery):
+## [**Screenshots**](https://github.com/jgspires/restaurant-prototype/tree/main/Screenshots):
 
 Contains many screenshots of the website's various pages and modals.
 The text is only available in Portuguese, but the aesthetic design and page structure can be easily observed regardless of language.
