@@ -22,7 +22,7 @@ This is the MySQL import script used to create the database and all necessary ta
 
 ## Costumers
 
-Once they have signed in, costumers can choose multiple items from a menu, including the items' descriptions, ingredients and price; place orders and finally pay when they are done eating.
+Once they have signed in, costumers can choose multiple items from a menu, including the items' descriptions, ingredients and price, place orders and finally pay when they are done eating.
 Whenever costumers pay for their food, they accrue 10% of the price paid as a "bonus" (discount) on their next bill, as long as the next bill is not paid on the same day as the last one. Please keep in mind that, as this is a prototype, paying a bill will simply tag that bill as "paid" and will NOT actually establish connection with any billing service.
 
 ## Staff
